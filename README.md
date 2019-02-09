@@ -1,3 +1,2 @@
- MATLAB codes for time series forecasting using Neural Networks (MLP), Support Vector Machine 
- and Discrete Wavelet Transform. 
+ Some MATLAB codes using Neural Networks (MLP), Support Vector Machine (clasification and Regression), Discrete Wavelet Transform and Autoencoders
  
