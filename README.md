@@ -1,4 +1,4 @@
- MATLAB scripts for time series forecasting:
+ # MATLAB scripts for time series forecasting:
  
 In these 2 scripts , We have the application of the Discrete Wavelet Transform in conjunction with 
 machine learning algorithms, such as Neural Networks (MLP) and Support Vector Regression to short-time forecasting of a time series.
